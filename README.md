@@ -45,7 +45,6 @@ This repository presents a predictive modeling solution to help **XYZ Music**, a
 
 ##  Collaborators
 
-**Group 13 – Carlson MSBA**
 - Aurosikha Mohanty  
 - Aditya Govind Ravi Krishnan  
 - Rita Wang  
